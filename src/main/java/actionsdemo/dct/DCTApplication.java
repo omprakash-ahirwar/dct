@@ -10,6 +10,7 @@ public class DCTApplication {
 		
 		System.out.print("First file: " + args[0]);
 		System.out.print("First file: " + args[1]);
+		System.out.print("Run with docker");
 
 	}
 
